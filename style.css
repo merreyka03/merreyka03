@@ -1,0 +1,95 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: arial, sans-serif;
+	background: linear-gradient(to right, #ffffff, #abbaab); 
+}
+.container{
+	margin: 0 auto;
+	max-width: 1170px;
+
+}
+.main-header{
+	padding: 18px 0;
+	background: linear-gradient(to right, #70e1f5, #ffd194);
+}
+.menu-item{
+	position: relative;
+	display: inline;
+}
+.menu-link{
+	padding: 15px;
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#first_part_heading{
+	padding: 50px 0;
+}
+
+.name{
+	padding: 0 0 30px 0;
+}
+
+.ul__block{
+	padding: 20px;
+}
+
+.text {
+    margin-right: 110px; /* Отступ от pravovo края */
+    margin-left: 5%;
+}
+
+.letter{
+     font-size: 32px; /* Размер шрифта в процентах */ 
+     position: relative; /* Относительное позиционирование */ 
+     top: 5px;
+}
+
+.ol{
+    display: flex;
+}
+
+.ol_box{
+    margin: 0 15px;
+}
+
+.table{
+    margin: 15px 28%;
+}
+
+.form_block{
+    background-color: #E2E6E9;
+    width: 500px;
+    height: 550px;
+    margin-bottom: 30px;
+}
+
+
+.footer{
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    padding: 1%;
+    color: white;
+}
+
+ul{
+    margin-right: 110px; /* Отступ от pravovo края */
+    margin-left: 5%;
+}
+
+.linkk{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
